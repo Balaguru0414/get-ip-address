@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.btn{
+  background:#33BBC5;
+  width: 70%;
+  font-weight: 600;
+  color: white;
+  font-size: 25px;
+  padding: 10px 0 10px 0;
+  border-radius: 10px;
+  border: none;
+  transition: 0.5s;
+}
+
+.btn:hover{
+  background:#1d5c61;
+  border-radius: 20px;
+}
+
+.h2{
+  margin: 0 auto;
+  border-bottom: 1px solid gray;
+  width: 60%;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
